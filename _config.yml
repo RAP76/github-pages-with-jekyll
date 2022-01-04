@@ -10,5 +10,5 @@ description: > SLEMAN FANS!
 # social links
 twitter_username: rafiaji_
 github_username:  RAP76
-show_excerpts: true
+show_excerpts: false
 theme: minima
